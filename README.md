@@ -1,1 +1,6 @@
-# all_software_comparison
+# All software comparison
+- MAJIQ/Voila
+- Whippet
+- MISO
+- StringTie/Ballgown
+- CrypSplice
