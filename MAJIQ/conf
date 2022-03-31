@@ -1,0 +1,7 @@
+[info]
+readlen=100
+bamdirs=/mnt/gtklab01/yongshan/tdp43_cnp_spc_21d_aligned_STAR_yongshan
+genome=mm39
+strandness=reverse
+[experiments]
+SPC=1142_ctr,1174_cko,270_cko,277_cko,280_cko,715_ctr,723_ctr,854_ctr
